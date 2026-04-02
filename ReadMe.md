@@ -11,8 +11,6 @@
 
 ---
 
-[![rdinis's 42 stats](https://42badge.vercel.app/api/v2/cmmeva5iz0003u5u38oeywdf7/stats?cursusId=21&coalitionId=piscine)](https://42badge.vercel.app)
-
 [![](https://visitcount.itsvg.in/api?id=RudyDinis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
